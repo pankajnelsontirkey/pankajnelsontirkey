@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am javascript/typescript developer. I have worked on ReactJS & NodeJS applications and services having almost 5 years experience of the same.
+- 🔭 I’m currently working on upskilling my web-development skills for the next phase of my software engineering career.
+- 🌱 I’m currently learning GraphQL with Apollo and have recently picked up NextJS. Looking to learn NestJS framework for the backend.
+- 😅 Working on my DSA... 
+
+I love new technologies and am looking forward to adding Golang & Rust to my portfolio.
+
+- [LeetCode](https://leetcode.com/u/pankajnelsontirkey/)
+- [LinkedIn](https://www.linkedin.com/in/pankajnelsontirkey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8Y5VVSGtScC6AnhAvMEDqw%3D%3D)
 <!--
 **pankajnelsontirkey/pankajnelsontirkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
