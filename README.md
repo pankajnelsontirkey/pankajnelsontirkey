@@ -41,7 +41,7 @@ Full-stack JavaScript/TypeScript engineer · 4+ years · Delhi NCR
 - **Times Internet** — Frontend lead, Colombia Audience Network (React/TS SPA)
 - **Valuecoders** — Full-stack across Dubai Police, UNESCO OpenEMIS, Diageo, Thomson Reuters Trustlaw
 
-### Currently learning
+<!-- ### Currently learning -->
 <!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) -->
 <!-- ![AWS](https://img.shields.io/badge/AWS_CLF--C02-232F3E?style=flat&logo=amazonaws&logoColor=white -->
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) -->
