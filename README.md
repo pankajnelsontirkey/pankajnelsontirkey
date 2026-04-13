@@ -50,8 +50,10 @@ Full-stack JavaScript/TypeScript engineer · 4+ years · Delhi NCR
 
 ---
 
-· [LinkedIn](https://linkedin.com/in/pankajnelsontirkey)
-· [LeetCode](https://leetcode.com/u/pankajnelsontirkey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pankajnelsontirkey-blue?logo=linkedin)](https://linkedin.com/in/pankajnelsontirkey)
+<!-- · [LinkedIn](https://linkedin.com/in/pankajnelsontirkey) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/pankajnelsontirkey?theme=nord&font=Lustria)
+<!-- · [LeetCode](https://leetcode.com/u/pankajnelsontirkey/) -->
 
 <!--
 **pankajnelsontirkey/pankajnelsontirkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
